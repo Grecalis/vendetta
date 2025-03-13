@@ -1,15 +1,15 @@
 {
-  "name": "Catppuccin Latte - Mauve",
-  "description": "Soothing pastel theme for the high-spirited!",
+  "name": "Catppuccin Latte - Mauve: Robin Edition",
+  "description": "Soothing pastel theme for the high-spirited! Now with HSR Robin, too!",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Catppuccin, edited by Grecalis"
     }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#9ca0b0", "#9ca0b0" ],
     "BACKGROUND_ACCENT": [ "#8839ef", "#8839ef" ],
-    "BACKGROUND_MENTIONED": [ "#df8e1d17", "#df8e1d17" ],
+    "BACKGROUND_MENTIONED": [ "#883bef35", "#883bef35" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#7c7f93", "#7c7f93" ],
     "BACKGROUND_MODIFIER_ACCENT": [ "#ccd0da", "#ccd0da" ],
     "BACKGROUND_MODIFIER_ACTIVE": [ "#ccd0da", "#ccd0da" ],
@@ -32,24 +32,24 @@
     "CHANNEL_ICON": [ "#7c7f93", "#7c7f93" ],
     "CHANNELS_DEFAULT": [ "#6c6f85", "#6c6f85" ],
     "CHAT_BACKGROUND": [ "#eff1f5", "#ccd0da" ],
-    "HEADER_PRIMARY": [ "#4c4f69", "#4c4f69" ],
-    "HEADER_SECONDARY": [ "#5c5f77", "#5c5f77" ],
+    "HEADER_PRIMARY": [ "#000000", "#000000" ],
+    "HEADER_SECONDARY": [ "#000000", "#000000" ],
     "INPUT_BACKGROUND": [ "#dce0e8", "#dce0e8" ],
-    "INTERACTIVE_ACTIVE": [ "#4c4f69", "#4c4f69" ],
+    "INTERACTIVE_ACTIVE": [ "#000000", "#000000" ],
     "INTERACTIVE_HOVER": [ "#7c7f93", "#7c7f93" ],
     "INTERACTIVE_MUTED": [ "#6c6f85", "#6c6f85" ],
     "INTERACTIVE_NORMAL": [ "#7c7f93", "#7c7f93" ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#ccd0da", "#ccd0da" ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#bcc0cc", "#bcc0cc" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#e6e9ef", "#e6e9ef" ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#4c4f69", "#4c4f69" ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [ "#4c4f69", "#4c4f69" ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#000000", "#000000" ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [ "#000000", "#000000" ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#e6e9ef", "#e6e9ef" ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#8839ef", "#8839ef" ],
     "TEXT_LINK": [ "#8839ef", "#8839ef" ],
     "TEXT_MUTED": [ "#6c6f85", "#6c6f85" ],
-    "TEXT_NORMAL": [ "#4c4f69", "#4c4f69" ],
-    "TEXT_PRIMARY": [ "#4c4f69", "#4c4f69" ],
+    "TEXT_NORMAL": [ "#000000", "#000000" ],
+    "TEXT_PRIMARY": [ "#000000", "#000000" ],
     "THREAD_CHANNEL_SPINE": [ "#acb0be", "#acb0be" ],
     "SPOILER_HIDDEN_BACKGROUND": [ "#acb0be", "#acb0be" ],
     "SPOILER_REVEALED_BACKGROUND": [ "#acb0be40", "#acb0be40" ]
@@ -77,13 +77,13 @@
     "BLUE_630": "#8839ef",
     "BLUE_660": "#8839ef",
     "BLUE_700": "#8839ef",
-    "PRIMARY_100": "#4c4f69",
-    "PRIMARY_200": "#4c4f69",
+    "PRIMARY_100": "#000000",
+    "PRIMARY_200": "#000000",
     "PRIMARY_300": "#eff1f5",
     "PRIMARY_360": "#8839ef",
     "PRIMARY_400": "#acb0be",
     "PRIMARY_460": "#7c7f93",
-    "PRIMARY_500": "#4c4f69",
+    "PRIMARY_500": "#000000",
     "PRIMARY_600": "#ccd0da",
     "PRIMARY_630": "#ccd0da",
     "PRIMARY_660": "#dce0e8",
@@ -101,9 +101,9 @@
     "PLUM_20": "#e6e9ef",
     "PLUM_21": "#e6e9ef",
     "PLUM_22": "#dce0e8",
-    "PLUM_3": "#4c4f69",
+    "PLUM_3": "#000000",
     "PLUM_4": "#8839ef",
-    "PLUM_6": "#4c4f69",
+    "PLUM_6": "#000000",
     "GREEN_100": "#40a02b",
     "GREEN_130": "#40a02b",
     "GREEN_160": "#40a02b",
@@ -241,5 +241,12 @@
       "ic_nitro_rep_24px": "#7c7f93"
     }
   },
+
+  "background": {
+        "blur": 0.1,
+        "url": "https://github.com/Grecalis/vendetta/blob/main/assets/latte-mauve-bg.jpeg?raw=true",
+        "alpha": 0.4
+  },
+  
     "spec": 2
 }
