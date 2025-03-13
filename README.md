@@ -1,4 +1,4 @@
-<h1 align="center">FORK WITH A CUSTOMIZED VERSION OF THE LATTE (MAUVE) THEME FOR PESONAL USE ONLY</h1>h1 align="center">
+<h1 align="center">FORK WITH A CUSTOMIZED VERSION OF THE LATTE (MAUVE) THEME FOR PESONAL USE ONLY</h1>
 
 <h3 align="center">
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
